@@ -1,3 +1,8 @@
+# Modify
+
+个人比较喜欢在VScode上用$Latex$, 本次修改加入了一些vscode的设置，默认```ALT+B```即可编译，且可在外置PDF浏览器中查看
+---
+
 # SJTUThesis 示例模板
 
 [![Build Status](https://travis-ci.org/sjtug/SJTUThesis.svg?branch=master)](https://travis-ci.org/sjtug/SJTUThesis)
